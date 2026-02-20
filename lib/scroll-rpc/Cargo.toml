@@ -21,4 +21,4 @@ unionlabs   = { workspace = true }
 [dev-dependencies]
 serde_json         = "1.0.114"
 tokio              = { workspace = true, features = ["macros"] }
-tracing-subscriber = "0.3.18"
+tracing-subscriber = "0.3.20"

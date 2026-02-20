@@ -16,7 +16,7 @@ clap               = { workspace = true, features = ["derive"] }
 embed-commit       = { workspace = true }
 hex                = { workspace = true }
 mpc-shared         = { workspace = true }
-pgp                = "0.13"
+pgp                = "0.14"
 thiserror          = { workspace = true }
 tokio              = { workspace = true, features = ["full"] }
 tracing            = { workspace = true }
