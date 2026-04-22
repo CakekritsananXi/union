@@ -30,7 +30,7 @@ ics23                                   = { workspace = true }
 num-rational                            = "0.4.2"
 num_enum                                = "0.7.0"
 prost                                   = { workspace = true }
-rand                                    = "0.8.5"
+rand                                    = "0.9.0"
 scroll-api                              = { workspace = true }
 scroll-rpc                              = { workspace = true }
 serde                                   = { workspace = true, features = ["derive"] }
@@ -45,5 +45,5 @@ tracing                                 = { workspace = true }
 
 [dev-dependencies]
 hex-literal        = { workspace = true }
-tracing-subscriber = "0.3.18"
+tracing-subscriber = "0.3.20"
 unionlabs          = { workspace = true, features = ["default", "test-utils"] }
