@@ -57,7 +57,7 @@ unionlabs-primitives    = { workspace = true, features = ["generic-array-compat"
 
 [dev-dependencies]
 hex-literal.workspace = true
-rand                  = "0.8.5"
+rand                  = "0.9.0"
 serde_json            = { workspace = true }
 
 [features]
