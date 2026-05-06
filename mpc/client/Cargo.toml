@@ -23,7 +23,7 @@ httpdate             = "1.0"
 hyper                = { version = "1", features = ["full"] }
 hyper-util           = { version = "0.1", features = ["full"] }
 mpc-shared           = { workspace = true }
-pgp                  = "0.13"
+pgp                  = "0.14"
 ratatui              = "0.27.0"
 reqwest              = { workspace = true, features = ["json", "stream", "multipart"] }
 serde                = { workspace = true, features = ["derive"] }
